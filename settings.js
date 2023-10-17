@@ -4,7 +4,7 @@ global.creator = 'Zeeoneofc'// yourname
 global.MONGO_DB_URI = "mongodb+srv://Miacantik:75KBVKqPHue3r1jE@cluster0.njkjca8.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "miamultidevice@gmail.com" //email
-global.email_password = "jpickamfifhmwscf" //application password email
+global.email_password = "jijboicdgpknoqwk" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
